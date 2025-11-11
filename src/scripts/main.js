@@ -366,7 +366,7 @@ people.forEach((person) => {
 
   const personData = [
     person.name,
-    person.gender,
+    person.sex,
     person.born,
     person.died,
     personAge,
